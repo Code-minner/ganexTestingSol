@@ -251,7 +251,7 @@ justify-content: space-between;
 .content_one_sub_container_text h1 {
     font-size: 3.8em;
     width: 100%;
-    max-width: 70%;
+    max-width: 80%;
     margin: 10px 0;
     color: var(--primary_color);
     font-weight: 400;
